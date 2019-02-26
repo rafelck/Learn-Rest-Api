@@ -1,0 +1,15 @@
+{
+    "nama" : "Rafel",
+    "umur" : 23,
+    "nim" : "145314010",
+    "lulus" : true,
+    "hobby" : [
+        "coding",
+        "gaming",
+        "music"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "antok",
+        "pembimbing2" : "agung"
+    }
+}
